@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "crypto-js": "^4.2.0",
+        "crypto.js": "^3.2.2"
+    }
+}
